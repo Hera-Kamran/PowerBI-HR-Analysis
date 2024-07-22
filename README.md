@@ -17,4 +17,5 @@ Attrition by years at company- Employees who have been with the company for 10 y
 Attrition by job role- The bar graph represents that laboratory technicians are the most to leave with a count of 62.
 
 Attrition by salary- It is evident that the majority of people leaving the company have their salary range up to 5k.
+![image](https://github.com/user-attachments/assets/0bac5d45-c49a-41e8-980a-ff76426c2c3b)
 
